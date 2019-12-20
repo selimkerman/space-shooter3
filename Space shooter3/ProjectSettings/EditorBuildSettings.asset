@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/AnaMenu.unity
+    guid: 8a78493a1624a8e4285cfd01f783991d
+  - enabled: 0
+    path: Assets/lvl1.unity
+    guid: 4a7bfceb892f3ed46a91d782723687e4
+  - enabled: 1
+    path: Assets/kenarKontrol.unity
+    guid: f0c897007627f574e84cf501616bb817
+  m_configObjects: {}
